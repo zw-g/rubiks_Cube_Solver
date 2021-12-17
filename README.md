@@ -15,3 +15,8 @@ Then I decided to try to develop an AI with human knowledge and found some bugs 
 rubiks cube itself. I have splitted one job into 7 different steps just like how a beginner would
 learn Rubik’s cube. In the end it turned out to be great. It will be able to solve any Cube I throw
 at it and solve it very fast.
+
+I have been playing Rubik’s Cube for years, most of times human would just follow an algorithm
+to complete the cube, so the idea of finding a way to solve the cube without any algorithm
+comes into my mind, maybe computer could help us to find a way to solve Rubik’s cube in a
+much more less steps. So here I am to explore.
